@@ -1,7 +1,7 @@
 # ai-case-study
-#The Artificial Intelligence Induced Schumpeterian Creative Destructive Event #in Medicine 
+# The Artificial Intelligence Induced Schumpeterian Creative Destructive Event #in Medicine 
 
-##Overview and Origin: 
+## Overview and Origin: 
 *Ten years from now, physicians will remember 2023 as the beginning of a major shift in medicine. Artificial Intelligence (AI) will change medicine as monumentally as antibiotics, anesthesia, antisepsis, and computed tomography (CT) scans. Diagnostic physicians, such as general internal medicine physicians and family practitioners, will be affected the most. Physicians will do things with their hands, such as surgeons, will be affected less, but they will still see monumental changes.*
 *In an open letter to the members of the American College of Surgeons (ACS), James Elsey, MD, FACS, Past Vice Chair if the Board of Regents of the ACS, recounted a conversation he had with a Harvard educated professor of IT who specializes in AI. She told him that AI will have dramatic transformative effects in medicine.(Ref 1) As Dr. Elsey said*
 >”Big data a and AI will no doubt provide increasingly powerful tools to allow us to significantly innovate and improve our clinical care and future research . However, as we ineluctably become more and more reliant on these powerful technologies I believe we must guard ourselves against becoming impersonal interfaces between the patient and Data.”<
@@ -17,13 +17,13 @@
 *How did the idea for the company come about: Need for consolidated professional information.*
 *Funding? Currently a profitable company trading in the US as an American Depository Receipt.*
 	
-##Business activities
+## Business activities
 *What is specific problem it is trying to solve? Specifically, UpToDate, provides contemporary medical information to physicians and advanced practice providers (APPs).*
 *Who are the customers? According to the company, UpToDate is used by more than 2 million users at over 44,000 healthcare organizations, in over 190 countries. Medical professionals use UpToDate to view over 650 million topics per year.* 
 *What does the company offer? Global provider of professional information in healthcare, taxes, risk management, and law.* 
 * Which technologies are they using? The company uses Large Language Processing similar to ChatGPT.*
 
-##Landscape
+## Landscape
 *What field is the company in? Medical information for diagnosis and prognosis*
 *Major trends and innovations in this field: The medical field is reticent to embrace new technology. Electronic Medical Records (EMR) are a relatively new concept. I remember Epic (one of the most popular EMR programs) being installed in the early 2000s; however, hospital systems are still moving from paper to EMRs. EMRs at different hospital systems still cannot “talk” to each other efficiently* 
 *What are the other major companies in this field? DynaMed and MDCalc*
