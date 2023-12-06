@@ -28,34 +28,33 @@
 *Major trends and innovations in this field: The medical field is reticent to embrace new technology. Electronic Medical Records (EMR) are a relatively new concept. I remember Epic (one of the most popular EMR programs) being installed in the early 2000s; however, hospital systems are still moving from paper to EMRs. EMRs at different hospital systems still cannot “talk” to each other efficiently* 
 *What are the other major companies in this field? DynaMed and MDCalc*
 
-##Results
+## Results
 *How has this company impacted the field of medicine? UpToDate is commonly used by diagnostic physicians and advanced practice providers (APPs)* 
 *What are the core metrics? For just health information, 9-month revenues increased 6%, clinical solutions increased 7%. They also obtained a New England Journal of Medicine digital distribution contract. (Ref 9)* 
 [Wolters Kluwer 2023 None-Month Trading Update](https://assets.contenthub.wolterskluwer.com/api/public/content/8d19e5632d264904af0b75d1ebbd9060?v=84624262)
 *Competitors in the information content field: According to Jotform, these are the other medical diagnostic tools:  VisualDx (just for dermatology issues), DynaMed, and MDCalc. (Ref 10)*
 *Performance of competitors versus Wolters Kluwer? DynaMed and MDCalc have a limited library of clinical decision supports. Not all diseases are in their libraries. Neither of these companies are profitable. Wolters Kluwer is based in the Netherlands and is a public stock traded on the Euronext Stock Exchange (WKL). The American depositary receipts are traded over the counter (OTC: WTKWY). The ADR currently trades at $138.42 (12/3/21), up 131.6% over the last 5 years.*
 
-##Recommendations
+## Recommendations
 *What advice would I offer? Have the diagnostic information projected on specialized glasses.*
 *How will it help the company? More physicians will use UpToDate if they can see the information without leaving the patient. Patients get upset when a physician leaves their room to “look up information”.* 
 *What tech would this product utilize? Google glasses.*
 *Why are these technologies appropriate for my idea? The physician can see the information without the patient realizing they are reading a differential diagnosis for their symptoms.*
 
-##References:
-*Ref 1: ACS Blog* 
+## References:
+* Ref 1: ACS Blog* 
 [Blog post](https://acscommunities.facs.org/discussion/thoughts-on-artificial-intelligence-and-medical-education.) 
-*Ref 2: Ayers JW, Poloak A, Dredze M, et al. Comparing physician and artificial intelligence chatbot responses to patient questions posted to a public social media forum. JAMA Intern Med. 2023;183(6):589-596*
-*Ref 3: Wachter RM, Brynjolfsson E. Will generative artificial intelligence deliver on its promise in health care? JAMA. Published online November 30, 2023*
-*Ref 4: Li  F, Ruijs  N, Lu  Y. Ethics & AI: a systematic review on ethical concerns and related strategies for designing with AI in healthcare. AI. 2023;4(1):28-53.* 
-*Ref 5: Executive Order on the safe, secure, and trustworthy development and use of artificial intelligence. White House. October 30, 2023. Accessed November 6, 2023.* 
-*Ref 6: American Medical Association Principles for Augmented Intelligence Development, Deployment, and Use Approved by AMA Board of Trustees on November 14, 2023.*
+* Ref 2: Ayers JW, Poloak A, Dredze M, et al. Comparing physician and artificial intelligence chatbot responses to patient questions posted to a public social media forum. JAMA Intern Med. 2023;183(6):589-596*
+* Ref 3: Wachter RM, Brynjolfsson E. Will generative artificial intelligence deliver on its promise in health care? JAMA. Published online November 30, 2023*
+* Ref 4: Li  F, Ruijs  N, Lu  Y. Ethics & AI: a systematic review on ethical concerns and related strategies for designing with AI in healthcare. AI. 2023;4(1):28-53.* 
+* Ref 5: Executive Order on the safe, secure, and trustworthy development and use of artificial intelligence. White House. October 30, 2023. Accessed November 6, 2023.* 
+* Ref 6: American Medical Association Principles for Augmented Intelligence Development, Deployment, and Use Approved by AMA Board of Trustees on November 14, 2023.*
 [AMA statement on AI](https://www.ama-assn.org/system/files/ama-ai-principles.pdf)
-*Ref 7: Wolters Kluwer unveils generative AI Labs for UpToDate* 
+* Ref 7: Wolters Kluwer unveils generative AI Labs for UpToDate* 
 [Wolters Kluwer is adding AI to UpToDate](https://www.wolterskluwer.com/en/news/wolters-kluwer-unveils-generative-ai-labs-uptodate#:~:text=Wolters%20Kluwer%20Health%20has%20launched,professionals%20make%20more%20informed%20decisions)
-*Ref 8: Wolters Kluwer -our heritage.*
+* Ref 8: Wolters Kluwer -our heritage.*
 [Wolters Kluwer history](https://www.wolterskluwer.com/en/about-us/our-heritage)
-*Ref 9: Wolters Kluwer 2023 None-Month Trading Update.*
+* Ref 9: Wolters Kluwer 2023 None-Month Trading Update.*
 [Wolters Kluwer 9-month financial results for 2023](https://assets.contenthub.wolterskluwer.com/api/public/content/8d19e5632d264904af0b75d1ebbd9060?v=84624262)
-*Ref 10: The top 10 medical apps for doctors. Last update: November 28, 2023.*
+* Ref 10: The top 10 medical apps for doctors. Last update: November 28, 2023.*
 [Top 10 apps for doctors](https://www.jotform.com/blog/medical-apps/)
-![image](https://github.com/jrequarth/ai-case-study/assets/152115284/a80047e2-8362-4de2-9607-d9d7e9edae0b)
